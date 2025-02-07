@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridhi Guda
-- 👀 I’m interested in Data Science, Python programming, Game Development. 
-- 🌱 I’m currently learning C# and Python. 
+- 👀 I’m interested in Data Science, Python programming, Game Developmennt, AI, ML, Cyber security, Networking. 
+- 🌱 I’m currently learning C#. 
 
 - 📫 Reach me at ridhi.guda1@gmail.com
 
